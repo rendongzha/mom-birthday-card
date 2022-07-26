@@ -13,4 +13,6 @@ html {
 
 body {
   background-color: #dab595;
+  position: relative;
+  min-height: 100%;
 }
