@@ -1,0 +1,38 @@
+.title {
+  text-align: center;
+  font-size: 2rem;
+  color: #7a5746;
+  margin-bottom: 1rem;
+}
+
+.fireworks {
+  width: 80vw;
+  box-shadow: 0 0 1rem;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.btn {
+  background-color: #897149;
+  outline: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: #dab595;
+  font-weight: 700;
+  border-radius: 1rem;
+}
+
+.btn:hover {
+  box-shadow: 0 0 5px #897149;
+}
+
+.footer {
+  background-color: #7a5746;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding: 1rem;
+}
+
+.date {
+  color: #dab595;
+}
